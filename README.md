@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Welcome to the Introduction to Computer Programming project! This project is designed to evaluate your understanding and practical application of fundamental programming concepts using Python. From data types to object-oriented programming, this assessment covers a wide range of topics to test your skills.
+Welcome to the Introduction to Computer Programming project! This project is designed to evaluate the understanding and practical application of fundamental programming concepts using Python. From data types to object-oriented programming, this assessment covers a wide range of topics to test skills.
 
 ### What You'll Learn
 
